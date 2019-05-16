@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2995C6D-9672-46B9-A08C-943D2881E173}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GithubWebhookreceiver", "GithubWebhookreceiver\GithubWebhookreceiver.csproj", "{D03D6B83-2711-41A5-8A27-D95B075124C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesForcePublish", "SalesForcePublish\SalesForcePublish.csproj", "{C5E8184A-1A24-47C2-AD33-09674425A9B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salesforcewebhookreceiver", "Salesforcewebhookreceiver\Salesforcewebhookreceiver.csproj", "{4EB249C0-F6E9-40AB-9BC1-B1D8499DD893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D03D6B83-2711-41A5-8A27-D95B075124C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03D6B83-2711-41A5-8A27-D95B075124C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03D6B83-2711-41A5-8A27-D95B075124C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03D6B83-2711-41A5-8A27-D95B075124C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E8184A-1A24-47C2-AD33-09674425A9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E8184A-1A24-47C2-AD33-09674425A9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E8184A-1A24-47C2-AD33-09674425A9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E8184A-1A24-47C2-AD33-09674425A9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB249C0-F6E9-40AB-9BC1-B1D8499DD893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB249C0-F6E9-40AB-9BC1-B1D8499DD893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB249C0-F6E9-40AB-9BC1-B1D8499DD893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB249C0-F6E9-40AB-9BC1-B1D8499DD893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F26924-412D-40FA-B322-E7670D5C3397}
+	EndGlobalSection
+EndGlobal
